@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleSdk</string>
+
+    <string-array name="items">
+        <item>信息流内容 壹</item>
+        <item>信息流内容 贰</item>
+        <item>信息流内容 叁</item>
+        <item>信息流内容 肆</item>
+        <item>信息流内容 伍</item>
+        <item>信息流内容 陆</item>
+        <item>信息流内容 柒</item>
+    </string-array>
+
+</resources>

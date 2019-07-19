@@ -1,0 +1,2 @@
+include ':app', ':adsdk'
+include ':ZLib'
